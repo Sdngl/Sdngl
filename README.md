@@ -1,4 +1,5 @@
-<img width="1611" height="859" alt="image" src="https://github.com/user-attachments/assets/7f0d66dd-794c-4411-878c-0f1c29b7e994" /><h2 align="left">Hi 👋! My name is Sworoop from Nepal</h2>
+<img width="1611" height="859" alt="image" src=<img width="1668" height="891" alt="image" src="https://github.com/user-attachments/assets/a36dccc3-9fc3-47b2-ade9-e0a510a0c680" />
+/><h2 align="left">Hi 👋! My name is Sworoop from Nepal</h2>
 
 ---
 
